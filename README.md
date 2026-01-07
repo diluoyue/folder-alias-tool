@@ -45,7 +45,7 @@
 ## 🛠 从源码运行（开发者）
 
 ```bash
-git clone https://github.com/<your-name>/folder-alias-tool.git
+git clone https://github.com/diluoyue/folder-alias-tool.git
 cd folder-alias-tool
 
 py folder_alias_tool.py
